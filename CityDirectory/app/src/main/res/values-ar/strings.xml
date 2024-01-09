@@ -1,0 +1,57 @@
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<resources>
+    <string name="app_name">دليل المدينة</string>
+    <string name="hello_blank_fragment">مرحبا جزء فارغ</string>
+    <string name="expandable_text_string">نحن Sanchhaya التعليم الجندي. المحدودة ، مسجلة ومقرها
+        في BC 227 ، الطابق الثاني ، برج ماتريكس للأعمال ، B4 ، القطاع 132 ، نويدا ، UP-201301 ، فيما يلي
+        يشار إليها باسم GeeksforGeeks. كما نقدم دورات مدفوعة تديرها Sanchhaya Classes Pvt. المحدودة.
+        بعنوان المكتب المسجل B-142 ، Vishwash Park ، Uttam Nagar ، نيودلهي ، شمال دلهي ، دلهي ، الهند ، 110059.
+        في GeeksforGeeks ، نقدر ثقتك ونحترم خصوصيتك. بيان الخصوصية هذا ("بيان الخصوصية")
+        تنطبق على معالجة معلومات التعريف الشخصية المقدمة أو التي تم الحصول عليها بطريقة أخرى من ،
+        أنت فيما يتعلق بالتطبيق المرتبط ("التطبيق"). التطبيق
+        مقدمة من GeeksforGeeks (ويمكن توفيرها بواسطة Geeksforgeeks نيابةً عنك
+        لمرخص أو شريك GeeksforGeeks ("شريك التطبيق").
+        باستخدام التطبيق أو الوصول إليه بطريقة أخرى ، فإنك تقر بقبولك الممارسات
+        والسياسات الموضحة في بيان الخصوصية هذا.</string>
+    <string name="hotels">الفنادق</string>
+    <string name="city_directory">دليل المدينة</string>
+    <string name="courtyard_by_marriott_ahmedabad">كورتيارد باي ماريوت أحمد آباد</string>
+    <string name="_4_4">4.4</string>
+    <string name="_5min">خمن</string>
+    <string name="_2km">2كم</string>
+    <string name="_9999999999">9999999999</string>
+    <string name="n_a">ن.</string>
+    <string name="address">.....عنوان......</string>
+    <string name="see_direction">انظر الاتجاه</string>
+    <string name="photos">الصور</string>
+    <string name="collections">المجموعات</string>
+    <string name="reviews">المراجعات</string>
+    <string name="from_users">من المستخدمين</string>
+    <string name="notification">إشعار</string>
+    <string name="english">إنجليزي</string>
+    <string name="smart_local_guide">دليل محلي ذكي</string>
+    <string name="choose_your_language">اختر لغتك</string>
+    <string name="french">فرنسي</string>
+    <string name="arabic">عربي</string>
+    <string name="my_favourite_places_by_google">الأماكن المفضلة عن طريق جوجل</string>
+    <string name="find_a_nearest_place">ابحث عن أقرب مكان</string>
+    <string name="featured">متميز</string>
+    <string name="restaurant">مطعم</string>
+    <string name="places_by_google">أماكن Google</string>
+    <string name="header_image">صورة رأس</string>
+    <string name="name">اسم</string>
+    <string name="name_of_place">الاسم_من_المكان</string>
+    <string name="address_of_location">عنوان الموقع....</string>
+    <string name="reviewer_name">المراجع_الاسم</string>
+    <string name="_5">5</string>
+    <string name="a_month_ago">قبل شهر</string>
+    <string name="auto_world_vintage_car_museum">متحف عالم السيارات للسيارات القديمة</string>
+    <string name="home">بيت</string>
+    <string name="nearby">مجاور</string>
+    <string name="favourite">مفضل</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="share_app">شارك التطبيق</string>
+    <string name="settings">إعدادات</string>
+    <string name="faq">التعليمات</string>
+    <string name="exit">مخرج</string>
+</resources>

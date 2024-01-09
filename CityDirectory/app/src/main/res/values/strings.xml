@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">CityDirectory</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="expandable_text_string">We Sanchhaya Education Pvt. Ltd., are registered and headquartered
+        at BC 227, 2nd Floor, Matrix Business Tower, B4, Sector 132, Noida, UP-201301, hereinafter
+        referred to as GeeksforGeeks. We also offer paid Courses managed by Sanchhaya Classes Pvt. Ltd.
+        with registered office address B-142, Vishwash Park, Uttam Nagar, New Delhi, North Delhi, Delhi, India, 110059.
+        At GeeksforGeeks, we value your trust and  respect your privacy. This privacy statement (“Privacy Statement”)
+        applies to the treatment of personally identifiable information submitted by, or otherwise obtained from,
+        you in connection with the associated application (“Application”). The Application is
+        provided by GeeksforGeeks (and may be provided by Geeksforgeeks on behalf
+        of a GeeksforGeeks licensor or partner (“Application Partner”).
+        By using or otherwise accessing the Application, you acknowledge that you accept the practices
+        and policies outlined in this Privacy Statement.</string>
+    <string name="hotels">Hotels</string>
+    <string name="city_directory">City Directory</string>
+    <string name="courtyard_by_marriott_ahmedabad">Courtyard By Marriott Ahmedabad</string>
+    <string name="_4_4">4.4</string>
+    <string name="_5min">5min</string>
+    <string name="_2km">2km</string>
+    <string name="_9999999999">9999999999</string>
+    <string name="n_a">N.A.</string>
+    <string name="address">.....address......</string>
+    <string name="see_direction">See Direction</string>
+    <string name="photos">Photos</string>
+    <string name="collections">Collections</string>
+    <string name="reviews">Reviews</string>
+    <string name="from_users">From users</string>
+    <string name="notification">Notification</string>
+    <string name="english">English</string>
+    <string name="smart_local_guide">Smart Local Guide</string>
+    <string name="choose_your_language">Choose your language</string>
+    <string name="french">French</string>
+    <string name="arabic">Arabic</string>
+    <string name="my_favourite_places_by_google">My favourite places by google</string>
+    <string name="find_a_nearest_place">Find a nearest place</string>
+    <string name="featured">Featured</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="places_by_google">Places by Google</string>
+    <string name="header_image">Header Image</string>
+    <string name="name">Name</string>
+    <string name="name_of_place">name_of_place</string>
+    <string name="address_of_location">address of location....</string>
+    <string name="reviewer_name">Reviewer_Name</string>
+    <string name="_5">5</string>
+    <string name="a_month_ago">a month ago</string>
+    <string name="auto_world_vintage_car_museum">Auto world Vintage Car Museum</string>
+    <string name="home">Home</string>
+    <string name="nearby">Nearby</string>
+    <string name="favourite">Favourite</string>
+    <string name="contact_us">Contact us</string>
+    <string name="share_app">Share app</string>
+    <string name="settings">Settings</string>
+    <string name="faq">FAQ</string>
+    <string name="exit">Exit</string>
+</resources>

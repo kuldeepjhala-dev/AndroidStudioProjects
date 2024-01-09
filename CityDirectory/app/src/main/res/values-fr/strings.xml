@@ -1,0 +1,49 @@
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<resources>
+    <string name="app_name">CityDirectory</string>
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+
+    <string name="expandable_text_string"> Courtyard By Marriott AhmedabadCourtyard By Marriott AhmedabadCourtyard By Marriott AhmedabadCourtyard By Marriott AhmedabadCourtyard By Marriott AhmedabadCourtyard By Marriott AhmedabadCourtyard By Marriott AhmedabadCourtyard By Marriott AhmedabadCourtyard By Marriott Ahmedabad</string>
+
+    <string name="hotels">Hôtels</string>
+    <string name="city_directory">City Directory</string>
+    <string name="courtyard_by_marriott_ahmedabad">Courtyard By Marriott Ahmedabad</string>
+    <string name="_4_4">4.4</string>
+    <string name="_5min">5min</string>
+    <string name="_2km">2km</string>
+    <string name="_9999999999">9999999999</string>
+    <string name="n_a">N.A.</string>
+    <string name="address">.....adresse......</string>
+    <string name="see_direction">Voir l\'itinéraire</string>
+    <string name="photos">Photos</string>
+    <string name="collections">Collections</string>
+    <string name="reviews">Commentaires</string>
+    <string name="from_users">Des utilisateurs</string>
+    <string name="notification">Notification</string>
+    <string name="smart_local_guide">Guide local intelligent</string>
+    <string name="choose_your_language">Choisissez votre langue</string>
+    <string name="french">Français</string>
+    <string name="arabic">
+arabe</string>
+    <string name="my_favourite_places_by_google">Mes endroits préférés par google</string>
+    <string name="find_a_nearest_place">Trouver un endroit le plus proche</string>
+    <string name="featured">Mis en exergue</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="places_by_google">Adresses par Google</string>
+    <string name="header_image">Image d\'en-tête</string>
+    <string name="name">Nom</string>
+    <string name="name_of_place">nom de lieu</string>
+    <string name="address_of_location">adresse du lieu....</string>
+    <string name="reviewer_name">Reviewer_Name</string>
+    <string name="_5">5</string>
+    <string name="a_month_ago">il y a un mois</string>
+    <string name="auto_world_vintage_car_museum">Monde de l\'automobile Musée des voitures anciennes</string>
+    <string name="home">Maison</string>
+    <string name="nearby">Proche</string>
+    <string name="favourite">Préférée</string>
+    <string name="contact_us">Contactez-nous</string>
+    <string name="share_app">Partager l\'application</string>
+    <string name="settings">Paramètres</string>
+    <string name="faq">FAQ</string>
+    <string name="exit">Sortie</string>
+</resources>
